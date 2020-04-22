@@ -1,0 +1,12 @@
+F:\SuryaPratap\NepaliRasoi\NepaliRasoi.Entities\bin\Debug\NepaliRasoi.Entities.dll
+F:\SuryaPratap\NepaliRasoi\NepaliRasoi.Entities\bin\Debug\NepaliRasoi.Entities.pdb
+F:\SuryaPratap\NepaliRasoi\NepaliRasoi.Entities\obj\Debug\NepaliRasoi.Entities.csprojAssemblyReference.cache
+F:\SuryaPratap\NepaliRasoi\NepaliRasoi.Entities\obj\Debug\NepaliRasoi.Entities.csproj.CoreCompileInputs.cache
+F:\SuryaPratap\NepaliRasoi\NepaliRasoi.Entities\obj\Debug\NepaliRasoi.Entities.dll
+F:\SuryaPratap\NepaliRasoi\NepaliRasoi.Entities\obj\Debug\NepaliRasoi.Entities.pdb
+F:\NepaliRasoi\NepaliRasoi.Entities\bin\Debug\NepaliRasoi.Entities.dll
+F:\NepaliRasoi\NepaliRasoi.Entities\bin\Debug\NepaliRasoi.Entities.pdb
+F:\NepaliRasoi\NepaliRasoi.Entities\obj\Debug\NepaliRasoi.Entities.csproj.CoreCompileInputs.cache
+F:\NepaliRasoi\NepaliRasoi.Entities\obj\Debug\NepaliRasoi.Entities.dll
+F:\NepaliRasoi\NepaliRasoi.Entities\obj\Debug\NepaliRasoi.Entities.pdb
+F:\NepaliRasoi\NepaliRasoi.Entities\obj\Debug\NepaliRasoi.Entities.csprojAssemblyReference.cache
